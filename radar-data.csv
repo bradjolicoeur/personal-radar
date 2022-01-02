@@ -1,4 +1,4 @@
-Name,Ring,Quadrant,isNew,Description
+name,ring,quadrant,isNew,description
 Zero Trust Architecture,Adopt,Techniques,FALSE,
 Team Topologies,Adopt,Techniques,TRUE,
 Living Documentation,Assess,Techniques,TRUE,
